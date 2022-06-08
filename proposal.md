@@ -1,4 +1,5 @@
 - What is your issue of interest (provide sufficient background information)?
+
 I'd like to tackle the issue of racial and gender bias in facial recognition systems. To start, I will show how a facial recognition system trained from scratch can create bias.
 
 From there, I will demonstrate how open source facial recognition networks exhibit similar bias. I'll analyze the ethical implications and provide suggestions for improvment. 
@@ -14,7 +15,6 @@ How easy/common is it for a facial recognition system to become biased towards c
 - Where do you get the data to analyze and help answer your questions (creditability of source, quality of data, size of data, attributes of data. etc.)?
 
 There are large, open source, repositories of faces that can be used for this purpose. There are also large pretrained networks that can be analyzed for bias. 
-
 
 - What variables/measures do you plan to use in your analysis (variables should be tied to the questions in #3)?
 
